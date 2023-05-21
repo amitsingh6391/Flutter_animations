@@ -10,11 +10,12 @@ Flutter’s CustomPaint is a powerful Widget that allows you to create custom an
 
 If you want UnderStand CustomPainter in detial check my Medium Article.
 
-<a href="https://medium.com/@amitsingh506142/creating-stunning-animations-with-custompainter-in-flutter-60bc7f880b2b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-singh-023055193" height="30" width="40" /></a>
+<a href="https://medium.com/@amitsingh506142/creating-stunning-animations-with-custompainter-in-flutter-60bc7f880b2b"
+</a>
 
 
 LinkDin:<a href=" https://www.linkedin.com/in/amit-singh-023055193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-singh-023055193" height="30" width="40" /></a>
 
-LinkDin:<a href="https://stackoverflow.com/users/13051247/amit-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-singh-023055193" height="30" width="40" /></a>
+
 
 
