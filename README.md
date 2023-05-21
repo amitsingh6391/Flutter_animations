@@ -1,16 +1,20 @@
-# linkedin_animations
+## Creating Stunning Animations with CustomPainter in Flutter:
 
-A new Flutter project.
 
-## Getting Started
+## Introduction:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Animations are essential in modern app development. They enhance user experiences, provide visual feedback, and make applications more engaging.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter’s CustomPaint is a powerful Widget that allows you to create custom animations with ease. By leveraging CustomPaint’s capabilities, you can bring your app designs to life and deliver captivating user experiences through custom animations.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you want UnderStand CustomPainter in detial check my Medium Article.
+
+<a href="https://medium.com/@amitsingh506142/creating-stunning-animations-with-custompainter-in-flutter-60bc7f880b2b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-singh-023055193" height="30" width="40" /></a>
+
+
+LinkDin:<a href=" https://www.linkedin.com/in/amit-singh-023055193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-singh-023055193" height="30" width="40" /></a>
+
+LinkDin:<a href="https://stackoverflow.com/users/13051247/amit-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-singh-023055193" height="30" width="40" /></a>
+
+

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:linkedin_animations/utils/animations/coder.dart';
+import 'package:linkedin_animations/animations/coder.dart';
 
 void main() {
   runApp(const MyApp());
